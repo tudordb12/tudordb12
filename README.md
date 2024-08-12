@@ -3,6 +3,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tudordb12&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/tudordb12?style=flat-square)
 
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/ai-cuza-12bf2.appspot.com/o/illustration.gif?alt=media&token=64b35364-7e5e-4d06-ae2e-a6805cd75eee">
+
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning: `Swift`, `Node.js` [![My Skills](https://skillicons.dev/icons?i=dart,html,js,firebase,git,gitlab,swift,netlify)](https://skillicons.dev)
