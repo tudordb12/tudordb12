@@ -4,11 +4,10 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning: `React.js`, `Node.js` [![My Skills](https://skillicons.dev/icons?i=dart,html,js,firebase,git,gitlab,swift,netlify)](https://skillicons.dev)
+- 🌱 I’m currently learning: `Swift`, `Node.js` [![My Skills](https://skillicons.dev/icons?i=dart,html,js,firebase,git,gitlab,swift,netlify)](https://skillicons.dev)
 - 👯 I’m looking to collaborate on: **Open Source Projects**
 - 🤔 I’m looking for help with: **Machine Learning**
-- 💬 Ask me about: **JavaScript, Python, Web Development**
-- 📫 How to reach me: [Email Me](mailto:your.email@example.com)
+- 💬 Ask me about: **Flutter, Mobile Development, Web Development**
 - ⚡ Fun fact: I love 🧗‍♂️ and 🎮
 
 ### 🛠️ Languages and Tools
