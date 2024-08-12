@@ -17,11 +17,7 @@
 
 ### 🔥 My Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudordb12&show_icons=true&theme=monokai)
-
-### 🚀 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudordb12&layout=compact&theme=midnight-purple)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudordb12&show_icons=true&theme=monokai)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudordb12&layout=compact&theme=midnight-purple)
 
 ### 🌐 Socials
 
