@@ -19,6 +19,12 @@
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudordb12&show_icons=true&theme=monokai)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudordb12&layout=compact&theme=midnight-purple)
 
+<div align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tudordb12&theme=dark" alt="Streak Stats" />
+    </a>
+</div>
+
 ### 🌐 Socials
 
 [<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="80"/>](https://instagram.com/tudor_db)
