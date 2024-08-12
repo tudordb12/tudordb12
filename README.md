@@ -4,7 +4,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning: `React.js`, `Node.js` [![My Skills](https://skillicons.dev/icons?i=dart,html,js,firebase,git,gitlab,swift,netlify)](https://skillicons.dev)- 👯 I’m looking to collaborate on: **Open Source Projects**
+- 🌱 I’m currently learning: `React.js`, `Node.js` [![My Skills](https://skillicons.dev/icons?i=dart,html,js,firebase,git,gitlab,swift,netlify)](https://skillicons.dev)
+- 👯 I’m looking to collaborate on: **Open Source Projects**
 - 🤔 I’m looking for help with: **Machine Learning**
 - 💬 Ask me about: **JavaScript, Python, Web Development**
 - 📫 How to reach me: [Email Me](mailto:your.email@example.com)
@@ -22,10 +23,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudordb12&layout=compact&theme=midnight-purple)
 
+### 🌐 Socials
 
-
-[<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="60"/>](https://instagram.com/tudor_db)
-[<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/gitlab_icon_130930.png" width="60"/>](https://gitlab.com/tudordb12)
+[<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="80"/>](https://instagram.com/tudor_db)
+[<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/gitlab_icon_130930.png" width="80"/>](https://gitlab.com/tudordb12)
+[<img src="https://static-00.iconduck.com/assets.00/github-icon-512x511-mt75w1j3.png" width="80"/>](https://github.com/tudordb12)
+[<img src="https://firebasestorage.googleapis.com/v0/b/ai-cuza-12bf2.appspot.com/o/o3wqv82oqup91.png?alt=media&token=cc27491e-729e-46ee-a4a7-f2d007e428c0" width="80"/>](https://discord.com)
 
 ### ✨ Projects
 
