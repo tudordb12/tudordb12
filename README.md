@@ -27,7 +27,7 @@
 
 ### 🌐 Socials
 
-[<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="80"/>](https://instagram.com/tudor_db)
+[<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="80"/>](https://instagram.com/)
 [<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/gitlab_icon_130930.png" width="80"/>](https://gitlab.com/tudordb12)
 [<img src="https://static-00.iconduck.com/assets.00/github-icon-512x511-mt75w1j3.png" width="80"/>](https://github.com/tudordb12)
 [<img src="https://firebasestorage.googleapis.com/v0/b/ai-cuza-12bf2.appspot.com/o/o3wqv82oqup91.png?alt=media&token=cc27491e-729e-46ee-a4a7-f2d007e428c0" width="80"/>](https://discord.com)
