@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning: `Swift`, `Node.js` [![My Skills](https://skillicons.dev/icons?i=dart,html,js,firebase,git,gitlab,swift,netlify)](https://skillicons.dev)
+- 🌱 I’m currently learning: [![My Skills](https://skillicons.dev/icons?i=kotlin,swift)](https://skillicons.dev)
 - 👯 I’m looking to collaborate on: **Open Source Projects**
 - 🤔 I’m looking for help with: **Machine Learning**
 - 💬 Ask me about: **Flutter, Mobile Development, Web Development**
@@ -15,7 +15,11 @@
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,js,firebase,git,gitlab,swift,netlify,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,js,firebase,git)](https://skillicons.dev)
+
+### 🛠️ Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,github,gitlab,unity,apple,windows)](https://skillicons.dev)
 
 ### 🔥 My Stats
 
