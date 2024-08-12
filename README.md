@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Tudor!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tudordb12&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/tudordb12?style=flat-square)
 
