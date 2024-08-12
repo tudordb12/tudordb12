@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,js,firebase,git)](https://skillicons.dev)
 
-### 🛠️ Languages and Tools
+### 👨‍💻 Working Environments
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,netlify,github,gitlab,unity,apple,windows)](https://skillicons.dev)
 
