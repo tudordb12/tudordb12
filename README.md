@@ -48,18 +48,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yourusername)
 
-### 🎯 Goals for 2024
-
-- Contribute to **[Open Source Projects](https://github.com/topics/open-source)**
-- Learn **[Kubernetes](https://kubernetes.io/)**
-- Improve my **[Data Structures & Algorithms](https://leetcode.com/)**
-- Launch a **[SaaS Product](https://saasproduct.com/)**
-
-### 🌱 Latest Blog Posts
-
-- [Your Blog Post 1](https://yourblog.com/post1)
-- [Your Blog Post 2](https://yourblog.com/post2)
-- [Your Blog Post 3](https://yourblog.com/post3)
 
 ---
 
